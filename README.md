@@ -24,13 +24,12 @@ It performs different operations or responses based on the current time and user
 4. Run the program using:
 
 ```bash
-python project.py
+python quiz.py
 ```
 
 ## Author
 
-Your Name
-
-## Submission
+SHERLIN.S
+# Submission
 
 This repository is created for project submission purposes.
